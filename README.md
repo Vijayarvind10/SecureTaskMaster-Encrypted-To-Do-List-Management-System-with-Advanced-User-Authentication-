@@ -29,15 +29,7 @@ This project is a highly secure task management system designed to ensure the co
    - Efficient algorithms for adding, editing, deleting, and viewing tasks.
    - Includes features for setting and managing task reminders.
 
-## How to Run
 
-1. **Compile the Project:**
-   - Use the provided `tasks.join` configuration to compile the project using g++.
-   - Ensure all necessary files (`todo_main.cpp`, `todo_list.cpp`, `Secure.cpp`, `sha256.cpp`, `security.cpp`, and `security.h`) are in the project directory.
-
-2. **Run the Executable:**
-   - Navigate to the `bin` directory and execute the compiled program.
-   - Follow the on-screen prompts to register, log in, and manage tasks.
 
 ## Usage
 
